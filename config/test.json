@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://127.0.0.1:27017/ulaa_db",
+    "apiVersion": "v1",
+    "user_restaurant_radius" : 2
+}

@@ -1,0 +1,7 @@
+module.exports = Object.freeze({
+    NOT_FOUND: 'NOT FOUND',
+    BAD_REQUEST: 'BAD REQUEST',
+    SERVER_ERROR: 'INTERNAL SERVER ERROR',
+    SUCCESS_STATUS_CODE: 200,
+    SERVER_ERROR_CODE: 500
+});
